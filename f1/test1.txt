@@ -1,0 +1,9 @@
+The first message included basic data.
+
+
+git status
+Git's message:
+"on branch  master
+Your branch is uo-to-date with 'origin/master'"
+
+nothing to commit, working directory clean
